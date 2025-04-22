@@ -1,25 +1,9 @@
-# santiagosuarez.github.io
+
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Santiago Suárez | RPA & Data Science Portfolio</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f7f9fb; color: #333; }
-    header { background: #2b2d42; color: #fff; padding: 2rem 1rem; text-align: center; }
-    section { padding: 2rem 1rem; max-width: 800px; margin: auto; }
-    h1, h2 { margin-bottom: 0.5rem; }
-    .project { margin-bottom: 2rem; }
-    .contact a { color: #2b2d42; text-decoration: none; }
-    .skills, .contact-info { display: flex; flex-wrap: wrap; gap: 1rem; }
-    .skills div, .contact-info div { background: #e0e5ec; padding: 0.5rem 1rem; border-radius: 5px; }
-    footer { text-align: center; padding: 2rem 1rem; background: #edf2f4; color: #555; }
-  </style>
-</head>
 <body>
   <header>
-    <h1>Santiago Suárez</h1>
+    <h1>Santiago Suárez Ruiz</h1>
     <p>RPA Tech Leader | Data Science Enthusiast</p>
   </header>
 
